@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import AddNewPostBtn from "./AddNewPostBtn";
 
 const Posts = () => {
-  // https://jsonplaceholder.typicode.com/posts
   const newPostdefaultValues = { title: "", body: "" };
   const [posts, setPosts] = useState([]);
   const [newPost, setNewPost] = useState(newPostdefaultValues);

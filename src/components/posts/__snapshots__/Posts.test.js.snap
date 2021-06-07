@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link changes the class when hovered 1`] = `
+<div>
+  <button
+    onClick={[Function]}
+  >
+    Add New Post
+  </button>
+  <h1>
+    Posts
+  </h1>
+  <ul />
+</div>
+`;
+
+exports[`Link changes the class when hovered 2`] = `
+<div>
+  <button
+    onClick={[Function]}
+  >
+    Add New Post
+  </button>
+  <h1>
+    Posts
+  </h1>
+  <ul />
+</div>
+`;
